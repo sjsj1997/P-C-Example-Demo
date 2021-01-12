@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://sjsj1997.github.io"
 title = "Azure ARC Project"
 theme = "hugo-geekdoc"
 

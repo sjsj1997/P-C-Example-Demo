@@ -1,0 +1,19 @@
+  
+---
+more:
+  - name:  Edit this page
+    external: true
+    ref: "https://github.com/sjsj1997/Azure_Arc_Project/blob/main/doc/getting-started.md"
+    icon: "notification"
+  - name:  Create child page
+    ref: "https://github.com/sjsj1997/Azure_Arc_Project/tree/main/doc"
+    external: true
+    icon: "download"
+  - name: " Create an issue"
+    ref: "https://github.com/sjsj1997/Azure_Arc_Project/issues/new?assignees=&labels=&template=bug_report.md&title="
+    external: true
+    icon: "github"
+  - name: " Create a feature request"
+    ref: "https://github.com/sjsj1997/Azure_Arc_Project/pulls"
+    external: true
+    icon: "github"
